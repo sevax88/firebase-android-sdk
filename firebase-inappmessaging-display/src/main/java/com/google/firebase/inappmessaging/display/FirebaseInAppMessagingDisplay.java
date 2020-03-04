@@ -287,6 +287,7 @@ public class FirebaseInAppMessagingDisplay extends FirebaseInAppMessagingDisplay
         return;
     }
 
+    //Test
     // The WindowManager LayoutParams.TYPE_APPLICATION_PANEL requires tokens from the activity
     // which does not become available until after all lifecycle methods are complete.
     activity
